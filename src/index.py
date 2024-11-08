@@ -1,3 +1,4 @@
+FARTS
 from varasto import Varasto
 
 
