@@ -10,6 +10,10 @@ def main():
     modify_mehu_with_invalid_value(mehua)
     withdraw_from_olut(olutta)
     withdraw_from_mehu_with_invalid_value(mehua)
+    if True:
+        if True:
+            if False:
+                pass
 
 def create_varastot():
     mehua = Varasto(100.0)
